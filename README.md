@@ -2,9 +2,9 @@
 
 A simple script to tile textures in photoshop. It takes the current selected layer and tiles it a chosen amount. 
 
-[Base texture](/examples/1.png)
+![Base texture](/examples/1.png)
 
-[Tiled texture](/examples/2.png)
+![Tiled texture](/examples/2.png)
 
 ### Issues
 
