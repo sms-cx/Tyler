@@ -7,9 +7,8 @@ A simple script to tile textures in photoshop. It takes the current selected lay
 ![Tiled texture](/examples/2.png)
 
 
-> [!Note]
-> ### Issues
-
-Merging the layers in the end won't work if the base textures is not rasterized.  
-
-The new tiles will allways start in the left top corner and not where the base layer is currently.
+> [!Issues]
+>
+> Merging the layers in the end won't work if the base textures is not rasterized.  
+>
+> The new tiles will allways start in the left top corner and not where the base layer is currently.
