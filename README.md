@@ -4,7 +4,7 @@ A simple script to tile textures in photoshop. It takes the current selected lay
 
 ![Base texture](https://github.com/sms-cx/Tyler/blob/main/examples/1.jpeg)
 
-![Tiled texture](/examples/2.png)
+![Tiled texture](https://github.com/sms-cx/Tyler/blob/main/examples/2.jpeg)
 
 
 > [!Issues]
