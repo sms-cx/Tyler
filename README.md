@@ -7,7 +7,7 @@ A simple script to tile textures in photoshop. It takes the current selected lay
 ![Tiled texture](https://github.com/sms-cx/Tyler/blob/main/examples/2.jpeg)
 
 
-> [!Note]
+> [!Notes]
 >
 > Merging the layers in the end won't work if the base textures is not rasterized.  
 >
